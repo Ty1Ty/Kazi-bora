@@ -3,17 +3,6 @@
 A fast, static, SEO/SEM-optimised jobs platform for Kenya (placeholder content and images - replace at launch).
 Designed & built by Tyrone John, +254 792 381 698.
 
-## Deploy in 3 minutes
-
-1. Create a GitHub repo and push this folder (`git init && git add . && git commit -m "KaziBora" && git push`).
-2. In Netlify: **Add new site > Import from Git**, pick the repo. Settings are read from `netlify.toml`
-   (build command `python3 generator/build.py`, publish directory `public`). Click **Deploy**.
-3. Forms (job applications, employer registration, post-a-job, CV service, alerts, contact) are picked up by
-   Netlify Forms automatically. Enable email notifications under **Site configuration > Forms**.
-
-The repo holds only the source (under 100 files, so GitHub's web upload works). Netlify generates all 129 pages
-in a few seconds on each deploy, and uses your site's address for canonicals and the sitemap automatically.
-
 ## What is included
 
 - 49 sample verified jobs, 20 employer profiles, filters (keyword, location, category, level, type, remote, salary)
