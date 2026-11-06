@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="10 Common Interview Questions and How to Answer Them cover illustration">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d4ed8"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient></defs>
+<rect width="640" height="360" fill="url(#a)"/><circle cx="80" cy="60" r="90" fill="#fff" opacity="0.06"/><circle cx="560" cy="300" r="140" fill="#fff" opacity="0.07"/><circle cx="330" cy="340" r="60" fill="#fff" opacity="0.05"/><circle cx="600" cy="40" r="40" fill="#fff" opacity="0.08"/>
+<g transform="translate(232 82) scale(7)" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity=".95"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M19 10v1a7 7 0 0 1-14 0v-1M12 18v4"/></g>
+<circle cx="520" cy="80" r="22" fill="#fcd34d"/><rect x="40" y="300" width="120" height="10" rx="5" fill="#fff" opacity=".5"/><rect x="40" y="320" width="80" height="8" rx="4" fill="#fff" opacity=".3"/></svg>

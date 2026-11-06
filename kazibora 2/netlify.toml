@@ -1,0 +1,8 @@
+# Netlify builds the full site (129 pages) from the small source in /generator on every deploy.
+# Pure Python 3, no packages to install.
+[build]
+  publish = "public"
+  command = "python3 generator/build.py"
+
+[build.environment]
+  PYTHON_VERSION = "3.12"
